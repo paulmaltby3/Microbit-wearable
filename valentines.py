@@ -2,7 +2,7 @@ from microbit import *
 import random
 
 relationship = ["marry?", "kiss?", "avoid?", "love?"]
-names = ["Harry", "Daddy", "Mae", "Eva", "Jack", "Lillie", "Leah", "Ted", "Frankie" ]
+names = ["Harry", "Daddy", "Mae", "Eva", "Mummy", "Jack", "Lillie", "Leah", "Ted", "Frankie" ]
 
 
 while True:
